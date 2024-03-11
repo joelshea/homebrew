@@ -19,7 +19,7 @@
 		{
 			"name": "Vecna the Demigod",
 			"shortName": "Vecna",
-			"source": "MyHomebrew",
+			"source": "JoeBrew",
 			"size": [
 				"M"
 			],
@@ -191,7 +191,7 @@
 			],
 			"legendaryGroup": {
 				"name": "Vecna",
-				"source": "MyHomebrew"
+				"source": "JoeBrew"
 			},
 			"isNamedCreature": true,
 			"trait": [
@@ -262,7 +262,7 @@
 		{
 			"name": "Calico",
 			"isNamedCreature": true,
-			"source": "MyHomebrew",
+			"source": "JoeBrew",
 			"page": 0,
 			"size": [
 				"M"
@@ -411,7 +411,7 @@
 		},
 		{
 			"name": "Corrupted Pseudodragon",
-			"source": "MyHomebrew",
+			"source": "JoeBrew",
 			"page": 254,
 			"size": [
 				"T"
@@ -527,7 +527,7 @@
 				"L"
 			],
 			"type": "construct",
-			"source": "MyHomebrew",
+			"source": "JoeBrew",
 			"alignment": [
 				"N"
 			],
@@ -599,7 +599,7 @@
 			"group": [
 				"Metallic Dragon"
 			],
-			"source": "MyHomebrew",
+			"source": "JoeBrew",
 			"page": 114,
 			"size": [
 				"H"
@@ -799,7 +799,7 @@
 	"legendaryGroup": [
 		{
 			"name": "Vecna",
-			"source": "MyHomebrew",
+			"source": "JoeBrew",
 			"lairActions": [
 				"On initiative count 20 (losing initiative ties), Venca takes a lair action to cause one of the following effects; Vecna can't use the same effect two rounds in a row:",
 				{
